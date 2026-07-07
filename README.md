@@ -1,16 +1,52 @@
-## Hi there 👋
 
-<!--
-**pavankumarchakali-25/pavankumarchakali-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Pavan Kumar</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+Developer;DSA+Enthusiast;Full+Stack+Learner;Open+to+Software+Engineering+Roles" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech CSE @ VIT-AP University
+- 💻 Java | DSA
+- 🌱 Currently learning Backend Development
+- 🚀 Preparing for Software Engineering placements
+- ⚡ Love building projects
+
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,js,react,nodejs,express,mongodb,firebase,git,github,vscode"/>
+
+</p>
+
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pavankumarchakali-25&show_icons=true&theme=tokyonight"/>
+
+</p>
+
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=pavankumarchakali-25&theme=tokyonight"/>
+
+</p>
+
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavankumarchakali-25&layout=compact&theme=tokyonight"/>
+
+</p>
+
+
+## 📫 Connect with Me
+
+- LinkedIn
+- Email
+- Portfolio
+
+
